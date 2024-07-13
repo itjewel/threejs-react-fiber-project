@@ -9,7 +9,7 @@ This project is a demonstration of using Three.js with Next.js, showcasing vario
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/threejs-react-fiber-project.git
+    git clone https://github.com/itjewel/threejs-react-fiber-project.git
     ```
 
 2. Navigate into the project directory:
